@@ -1,0 +1,15 @@
+/workspaces/Bootcamp/Task_3/2_sort/bin/Debug/net7.0/2_sort
+/workspaces/Bootcamp/Task_3/2_sort/bin/Debug/net7.0/2_sort.deps.json
+/workspaces/Bootcamp/Task_3/2_sort/bin/Debug/net7.0/2_sort.runtimeconfig.json
+/workspaces/Bootcamp/Task_3/2_sort/bin/Debug/net7.0/2_sort.dll
+/workspaces/Bootcamp/Task_3/2_sort/bin/Debug/net7.0/2_sort.pdb
+/workspaces/Bootcamp/Task_3/2_sort/obj/Debug/net7.0/2_sort.csproj.AssemblyReference.cache
+/workspaces/Bootcamp/Task_3/2_sort/obj/Debug/net7.0/2_sort.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Bootcamp/Task_3/2_sort/obj/Debug/net7.0/2_sort.AssemblyInfoInputs.cache
+/workspaces/Bootcamp/Task_3/2_sort/obj/Debug/net7.0/2_sort.AssemblyInfo.cs
+/workspaces/Bootcamp/Task_3/2_sort/obj/Debug/net7.0/2_sort.csproj.CoreCompileInputs.cache
+/workspaces/Bootcamp/Task_3/2_sort/obj/Debug/net7.0/2_sort.dll
+/workspaces/Bootcamp/Task_3/2_sort/obj/Debug/net7.0/refint/2_sort.dll
+/workspaces/Bootcamp/Task_3/2_sort/obj/Debug/net7.0/2_sort.pdb
+/workspaces/Bootcamp/Task_3/2_sort/obj/Debug/net7.0/2_sort.genruntimeconfig.cache
+/workspaces/Bootcamp/Task_3/2_sort/obj/Debug/net7.0/ref/2_sort.dll

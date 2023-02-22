@@ -1,0 +1,15 @@
+/workspaces/Bootcamp/Task_3/1_code/bin/Debug/net7.0/1_code
+/workspaces/Bootcamp/Task_3/1_code/bin/Debug/net7.0/1_code.deps.json
+/workspaces/Bootcamp/Task_3/1_code/bin/Debug/net7.0/1_code.runtimeconfig.json
+/workspaces/Bootcamp/Task_3/1_code/bin/Debug/net7.0/1_code.dll
+/workspaces/Bootcamp/Task_3/1_code/bin/Debug/net7.0/1_code.pdb
+/workspaces/Bootcamp/Task_3/1_code/obj/Debug/net7.0/1_code.csproj.AssemblyReference.cache
+/workspaces/Bootcamp/Task_3/1_code/obj/Debug/net7.0/1_code.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Bootcamp/Task_3/1_code/obj/Debug/net7.0/1_code.AssemblyInfoInputs.cache
+/workspaces/Bootcamp/Task_3/1_code/obj/Debug/net7.0/1_code.AssemblyInfo.cs
+/workspaces/Bootcamp/Task_3/1_code/obj/Debug/net7.0/1_code.csproj.CoreCompileInputs.cache
+/workspaces/Bootcamp/Task_3/1_code/obj/Debug/net7.0/1_code.dll
+/workspaces/Bootcamp/Task_3/1_code/obj/Debug/net7.0/refint/1_code.dll
+/workspaces/Bootcamp/Task_3/1_code/obj/Debug/net7.0/1_code.pdb
+/workspaces/Bootcamp/Task_3/1_code/obj/Debug/net7.0/1_code.genruntimeconfig.cache
+/workspaces/Bootcamp/Task_3/1_code/obj/Debug/net7.0/ref/1_code.dll

@@ -1,0 +1,15 @@
+/workspaces/Bootcamp/Task_3/3_num_table/obj/Debug/net7.0/3_num_table.csproj.AssemblyReference.cache
+/workspaces/Bootcamp/Task_3/3_num_table/obj/Debug/net7.0/3_num_table.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Bootcamp/Task_3/3_num_table/obj/Debug/net7.0/3_num_table.AssemblyInfoInputs.cache
+/workspaces/Bootcamp/Task_3/3_num_table/obj/Debug/net7.0/3_num_table.AssemblyInfo.cs
+/workspaces/Bootcamp/Task_3/3_num_table/obj/Debug/net7.0/3_num_table.csproj.CoreCompileInputs.cache
+/workspaces/Bootcamp/Task_3/3_num_table/bin/Debug/net7.0/3_num_table
+/workspaces/Bootcamp/Task_3/3_num_table/bin/Debug/net7.0/3_num_table.deps.json
+/workspaces/Bootcamp/Task_3/3_num_table/bin/Debug/net7.0/3_num_table.runtimeconfig.json
+/workspaces/Bootcamp/Task_3/3_num_table/bin/Debug/net7.0/3_num_table.dll
+/workspaces/Bootcamp/Task_3/3_num_table/bin/Debug/net7.0/3_num_table.pdb
+/workspaces/Bootcamp/Task_3/3_num_table/obj/Debug/net7.0/3_num_table.dll
+/workspaces/Bootcamp/Task_3/3_num_table/obj/Debug/net7.0/refint/3_num_table.dll
+/workspaces/Bootcamp/Task_3/3_num_table/obj/Debug/net7.0/3_num_table.pdb
+/workspaces/Bootcamp/Task_3/3_num_table/obj/Debug/net7.0/3_num_table.genruntimeconfig.cache
+/workspaces/Bootcamp/Task_3/3_num_table/obj/Debug/net7.0/ref/3_num_table.dll
